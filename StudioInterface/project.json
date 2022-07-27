@@ -1,6 +1,6 @@
 {
-  "name": "First Run with Studio",
-  "description": "Sample Process to publish and run",
+  "name": "StudioInterface",
+  "description": "Process to explore Studio Interface",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.3.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "d8226fcd-b561-4e74-8d3a-5ab4e965eb11",
+      "uniqueId": "52fbe172-e81a-4660-bfb0-429c61eebe31",
       "input": [],
       "output": []
     }
